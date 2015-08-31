@@ -5,4 +5,5 @@ int main() {
 	// druga zmiana
 	// trzecia zmiana
 	// zmiana galezi
+	// zmiana galezi 2
 }
