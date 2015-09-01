@@ -3,6 +3,6 @@ using namespace std;
 
 int mian(int argc,char**argv)
 {
-	cout <<"test\n";
+	cout <<"test 22222\n";
 	return 0;
 }
