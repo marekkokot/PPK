@@ -2,6 +2,7 @@
 
 int main() {
 	std::cout << "Witaj swiecie" << std::endl;
+	// zerowa zmiana
 	// pierwsza zmiana
 	// druga zmiana
 	// trzecia zmiana
